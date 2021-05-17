@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Hooks-news-app/static/css/main.527ecfb4.chunk.css",
-    "main.js": "/React-Hooks-news-app/static/js/main.64e0746e.chunk.js",
-    "main.js.map": "/React-Hooks-news-app/static/js/main.64e0746e.chunk.js.map",
+    "main.js": "/React-Hooks-news-app/static/js/main.63daefb7.chunk.js",
+    "main.js.map": "/React-Hooks-news-app/static/js/main.63daefb7.chunk.js.map",
     "runtime-main.js": "/React-Hooks-news-app/static/js/runtime-main.ba8198ca.js",
     "runtime-main.js.map": "/React-Hooks-news-app/static/js/runtime-main.ba8198ca.js.map",
     "static/js/2.d1cdd871.chunk.js": "/React-Hooks-news-app/static/js/2.d1cdd871.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba8198ca.js",
     "static/js/2.d1cdd871.chunk.js",
     "static/css/main.527ecfb4.chunk.css",
-    "static/js/main.64e0746e.chunk.js"
+    "static/js/main.63daefb7.chunk.js"
   ]
 }
